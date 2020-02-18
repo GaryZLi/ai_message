@@ -8,8 +8,3 @@ export const firebaseConfig = {
     appId: "",
     measurementId: ""
 };
-
-
-
-
-//firebase.database().ref("User'semail" + "")
